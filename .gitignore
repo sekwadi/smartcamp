@@ -1,0 +1,11 @@
+# Ignore environment variable files
+*.env
+node_modules
+
+# Frontend
+frontend/dist/
+frontend/.env.local
+
+# Backend
+backend/node_modules/
+backend/.env
